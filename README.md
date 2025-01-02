@@ -1,5 +1,3 @@
-# Supermarket_Sales_Analysis
-Este repositorio contiene el análisis de ventas de un supermercado en Yangon, utilizando Jupyter Notebook, Python, y Power BI.
 # Supermarket Sales Analysis
 
 Este repositorio contiene el análisis de ventas de un supermercado en Yangon, utilizando Jupyter Notebook, Python, y Power BI.
@@ -22,4 +20,4 @@ Este repositorio contiene el análisis de ventas de un supermercado en Yangon, u
 - Archivo Power BI: [Sales_Analysis_Yangon.pbix](./Power_BI/Sales_Analysis_Yangon.pbix)
 
 ## Autor
-[Tu Nombre]
+GRUPO 11
