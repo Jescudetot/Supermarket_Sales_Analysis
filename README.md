@@ -14,10 +14,5 @@ Este repositorio contiene el análisis de ventas de un supermercado en Yangon, u
 3. Ejecuta las celdas para generar las gráficas iniciales.
 4. Abre el archivo `Sales_Analysis_Yangon.pbix` en Power BI Desktop para explorar las visualizaciones y el dashboard interactivo.
 
-## Enlaces
-- Dataset original: [transformed_supermarket_sales.csv](./Dataset/transformed_supermarket_sales.csv)
-- Notebook de Jupyter: [analisis_supermercado.ipynb](./Código_Jupyter/analisis_supermercado.ipynb)
-- Archivo Power BI: [Sales_Analysis_Yangon.pbix](./Power_BI/Sales_Analysis_Yangon.pbix)
-
 ## Autor
 GRUPO 11
